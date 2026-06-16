@@ -6,7 +6,7 @@
 
 ## About
 
-I'm a software engineer with roughly 10 years of experience in web development and content management systems, most recently deploying CMS infrastructure on Kubernetes on AWS. Over the past year I've been self-studying data engineering, and these four projects (completed as part of the Udacity Data Engineering with AWS Nanodegree) represent part of the work I've done to facilitate this transition in practice.
+I'm a software engineer with roughly 10 years of experience in web development and content management systems, most recently deploying CMS infrastructure on Kubernetes on AWS. With the goal of pivoting into Data Engineering, I've been self-studying data engineering, and these four projects (completed as part of the Udacity Data Engineering with AWS Nanodegree) represent part of the work I've done to facilitate this transition in practice.
 
 The projects follow the arc of a professional data engineering skill set: NoSQL data modeling → cloud data warehousing → cloud-native data lakehouses → orchestrated pipeline automation.
 

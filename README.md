@@ -6,9 +6,9 @@
 
 ## About
 
-Good data infrastructure is invisible when it works and painful when it doesn't. These projects follow the arc of a professional data engineering skill set — from NoSQL data modeling to cloud warehousing to data lakehouses to orchestrated pipeline automation — each one tackling a distinct layer of the stack.
+Good data infrastructure is invisible when it works and painful when it doesn't. These projects follow the arc of a professional data engineering skill set: from NoSQL data modeling → cloud warehousing → data lakehouses → orchestrated pipeline automation, each one tackling a distinct layer of the stack.
 
-Each project stands on its own, but read in sequence they build a complete picture of the data engineering stack.
+Each project stands on its own, but read in sequence they build a complete picture of the data engineering stack on AWS.
 
 ---
 

@@ -6,9 +6,9 @@
 
 ## About
 
-I'm a software engineer with roughly 10 years of experience in web development and content management systems, most recently deploying CMS infrastructure on Kubernetes on AWS. I've been self-studying data Engineering with the goal of pivoting into this field, and these four projects (completed as part of the Udacity Data Engineering with AWS Nanodegree) represent part of the work I've done to facilitate this transition in practice.
+Good data infrastructure is invisible when it works and painful when it doesn't. These projects follow the arc of a professional data engineering skill set — from NoSQL data modeling to cloud warehousing to data lakehouses to orchestrated pipeline automation — each one tackling a distinct layer of the stack.
 
-The projects follow the arc of a professional data engineering skill set: NoSQL data modeling → cloud data warehousing → cloud-native data lakehouses → orchestrated pipeline automation.
+Each project stands on its own, but read in sequence they build a complete picture of the data engineering stack.
 
 ---
 
